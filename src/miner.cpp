@@ -7,7 +7,7 @@
 #include "txdb.h"
 #include "miner.h"
 #include "kernel.h"
-#include "hashblock.h"
+#include "hmq1725/hashblock.h"
 
 using namespace std;
 
