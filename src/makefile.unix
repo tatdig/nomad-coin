@@ -2,6 +2,9 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
+BDB_LIB_PATH:=/usr/local/BerkeleyDB.4.8/lib
+BDB_INCLUDE_PATH:=/usr/local/BerkeleyDB.4.8/include
+
 USE_UPNP:=0
 USE_WALLET:=1
 

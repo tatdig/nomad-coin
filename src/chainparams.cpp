@@ -52,8 +52,8 @@ public:
         pchMessageStart[1] = 0x23;
         pchMessageStart[2] = 0x07;
         pchMessageStart[3] = 0xa3;
-        nDefaultPort = 15716;
-        nRPCPort = 15717;
+        nDefaultPort = 8716;
+        nRPCPort = 8717;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         const char* pszTimestamp = "25 Jan 2018 A Nomad is born!";

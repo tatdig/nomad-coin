@@ -960,7 +960,7 @@ int64_t GetProofOfWorkReward(int64_t nHeight, int64_t nFees)
 
     if(nHeight == 4)
     {
-        nSubsidy = 31500000 * COIN; // 15% Premine
+        nSubsidy = 31500 * COIN; // 15% Dev Reward
     }
     // Standard PoW Subsidy
     else if(nHeight > 5)
