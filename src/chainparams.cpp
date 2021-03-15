@@ -76,8 +76,9 @@ public:
         assert(hashGenesisBlock == uint256("0x0000057348dae0b4e27aac55e05ae8d25921e0bd29d27704a523eaab8b90de05"));
         assert(genesis.hashMerkleRoot == uint256("0xd2f758f3e4da3f078cf864b2e93fb6bf496f1c255ac4d831cd86e70084430bcd"));
 
-        //vSeeds.push_back(CDNSSeedData("", ""));
-
+        vSeeds.push_back(CDNSSeedData("rand", "tdcoincore.org"));
+        vSeeds.push_back(CDNSSeedData("poll", "pool.tdcoincore.org"));
+        
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 53);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 55);
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, 80);
