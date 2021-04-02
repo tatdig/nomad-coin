@@ -1,3 +1,10 @@
+Original project apeared to be dead as it had no nodes to sync.
+We decided to revive project by adjusting some parametrs and mining.
+
+If you happen to have the original blockchain please contact us and we will archive this project.
+
+After mining for a while we have noticed that this blockchain is very fragile.
+We will see what can be done to make stronger.
 
 Nomad development tree
 
