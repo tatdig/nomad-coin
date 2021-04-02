@@ -1,7 +1,7 @@
 
 Nomad development tree
 
-Nomad is a PoS-based cryptocurrency.
+Nomad is a hybrid PoW & PoS-based cryptocurrency.
 
 Development process
 ===========================
