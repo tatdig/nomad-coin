@@ -4,7 +4,7 @@ We decided to revive project by adjusting some parametrs and mining.
 If you happen to have the original blockchain please contact us and we will archive this project.
 
 After mining for a while we have noticed that this blockchain is very fragile.
-We will see what can be done to make stronger.
+We will see what can be done to make it stronger.
 
 Nomad development tree
 
