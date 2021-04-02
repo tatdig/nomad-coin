@@ -1,4 +1,4 @@
-Original project apeared to be dead as it had no nodes to sync.
+Original project apeared to be dead as it has no nodes to sync.
 We decided to revive project by adjusting some parametrs and mining.
 
 If you happen to have the original blockchain please contact us and we will archive this project.
